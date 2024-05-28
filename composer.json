@@ -1,0 +1,16 @@
+{
+    "name": "abdillahrahman/libhello",
+    "description": "membuat lib",
+    "autoload": {
+        "psr-4": {
+            "Abdillahrahman\\Libhello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdillah Rahman",
+            "email": "abdillahrahman2912@gmail.com"
+        }
+    ],
+    "require": {}
+}
